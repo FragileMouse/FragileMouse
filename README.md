@@ -15,6 +15,7 @@
 
 ## 🔥 Мои проекты
 📍[Gift Shop Data Warehouse](https://github.com/FragileMouse/db_gift_shop_project) <br>
+    〰️ Проектирование базы данных, SQL-запросы, визуализация и анализ статистики<br>
 📍 <br>
 📍
 
