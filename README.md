@@ -14,7 +14,7 @@
 🎓 Практический опыт командных проектов и работы с реальными данными <br>
 
 ## 🔥 Мои проекты
-📍 <br>
+📍[Gift Shop Data Warehouse](https://github.com/FragileMouse/db_gift_shop_project) <br>
 📍 <br>
 📍
 
