@@ -33,4 +33,4 @@ I'm a third-year student at ITMO University in St. Petersburg and my dream is to
 
 🎁 Database design
 
-🎁 English B2
+🎁 English B2, Russian (native)
