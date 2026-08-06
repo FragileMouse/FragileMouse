@@ -1,3 +1,5 @@
+[Перевести на русский](https://example.com)
+
 ![banner](./assets/heading_en.svg)
 
 I'm a third-year student at ITMO University in St. Petersburg and my dream is to build a career as a data analyst. At my university, in parallel with my bachelor's degree in "Technology and Innovation" (2024-2028), I completed the professional retraining course "Data Analytics in Scientific Research" (2026).
