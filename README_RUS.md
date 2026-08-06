@@ -1,4 +1,4 @@
-[Translate to English](https://example.com)
+[Translate to English](README.md)
 
 ![banner](./assets/heading_en.svg)
 
