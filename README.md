@@ -1,4 +1,4 @@
-[Перевести на русский](https://example.com)
+[Перевести на русский](README_RUS.md)
 
 ![banner](./assets/heading_en.svg)
 
