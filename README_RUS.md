@@ -19,7 +19,7 @@
 | Технологии | Инструменты | Применение |
 |---------|-------------|---------|
 | ![My Skills](https://skillicons.dev/icons?i=py) | ![Pycharm](https://skillicons.dev/icons?i=pycharm) <img src="https://www.gstatic.com/pantheon/images/bigquery/welcome_page/colab-logo.svg" width="45" alt="Google Colab" /> ![Blender](https://skillicons.dev/icons?i=blender)| **Преобразование:** Pandas, NumPy, Scikit-learn <br> **Визуализация:** Matplotlib, Seaborn,  Jupyter/Colab for EDA, bpy (Blender Python API) |
-| SQL | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | **Извлечение:** JOINs, subqueries, CTEs <br> **Преобразрвание:** window functions, aggregations, CASE statements <br> **Храниение:** CREATE, INSERT, PK, FK, ER-diagram |
+| SQL | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | **Извлечение:** JOINs, подзапросы, CTEs <br> **Преобразрвание:** оконные функции, агрегация, CASE <br> **Хранение:** CREATE, INSERT, PK, FK, ER-diagram |
 | Spreadsheets | Excel, Google Sheets | **Преобразование**: сводные таблицы, VLOOKUP/XLOOKUP, INDEX-MATCH <br> **Визуализация**: графики, дашборды |
 | Other tools | ![My Skills](https://skillicons.dev/icons?i=figma), Tableau, PowerPoint | **Визуализация**: data storytelling, UX/UI basis |
 
