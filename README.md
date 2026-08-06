@@ -4,7 +4,7 @@ I'm a third-year student at ITMO University in St. Petersburg and my dream is to
 
 ## I'm looking for an internship as a data analyst:
 
-💙 employment 20-25 hours a week
+💙 employment 20-30 hours a week
 
 💙 office/hybrid in St. Petersburg or remotely
 
