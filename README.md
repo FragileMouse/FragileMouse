@@ -21,7 +21,7 @@ I'm a third-year student at ITMO University in St. Petersburg and I'm actively b
 | ![My Skills](https://skillicons.dev/icons?i=py) | ![Pycharm](https://skillicons.dev/icons?i=pycharm) <img src="https://www.gstatic.com/pantheon/images/bigquery/welcome_page/colab-logo.svg" width="45" alt="Google Colab" /> ![Blender](https://skillicons.dev/icons?i=blender)| **Data Manipulation:** Pandas, NumPy, Scikit-learn <br> **Visualization:** Matplotlib, Seaborn,  Jupyter/Colab for EDA, bpy (Blender Python API) |
 | SQL | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | **Data Extraction:** JOINs, subqueries, CTEs <br> **Data Transformation:** window functions, aggregations, CASE statements <br> **Data Storage:** CREATE, INSERT, PK, FK, ER-diagram |
 | Spreadsheets | Excel, Google Sheets | **Data Manipulation**: pivot tables, VLOOKUP/XLOOKUP, INDEX-MATCH <br> **Visualization**: charts, dashboards |
-| Other tools | ![My Skills](https://skillicons.dev/icons?i=figma), Tableau, PowerPoint | **Visualization**: data storytelling, UX/UI basis |
+| Other tools | ![My Skills](https://skillicons.dev/icons?i=figma), Tableau, Superset, PowerPoint | **Visualization**: data storytelling, UX/UI basis |
 
 ## Knowledge:
 
